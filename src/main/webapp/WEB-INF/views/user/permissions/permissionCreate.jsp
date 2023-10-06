@@ -93,7 +93,7 @@
             <tr>
                 <th>이메일</th>
                 <td>
-                    <input type="text"  name="permissionMail" id="permissionMail"  value="" placeholder="paasta@nia.or.kr"
+                    <input type="text"  name="permissionMail" id="permissionMail"  value="" placeholder="kpaas@nia.or.kr"
                     required="required"
                     pattern="^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$">
                     <p class="desc" style="color:#fb5666;" id="emailNotConfirmedAlert">* 이메일 주소 형식이 올바르지 않습니다.</p>

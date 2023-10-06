@@ -8,7 +8,7 @@
 --%>
 <div class="footer wide">
     <div class="copy">
-        Copyright © 2017 PaaS-TA. All rights reserved.
+        Copyright © 2017 K-PaaS. All rights reserved.
     </div>
 </div>
 </div>
