@@ -78,13 +78,13 @@
     <div class="tema_view">
         <%--<h5>README.md</h5>--%>
         <%-- <div class="tema_view_inner">
-             <h2>PaaS-TA 가이드 문서</h2>
+             <h2>K-PaaS 가이드 문서</h2>
              <dl>
                  <dt>플랫폼 설치 가이드</dt>
                  <dd><a href="#">설치 파일 다운로드 받기</a></dd>
                  <dd><a href="#">플랫폼 설치</a></dd>
                  <dd><a href="#">플랫폼 설치 자동화</a></dd>
-                 <dd><a href="#">PaaS-TA 미터링 설치</a></dd>
+                 <dd><a href="#">K-PaaS 미터링 설치</a></dd>
              </dl>
              <dl>
                  <dt>서비스 설치 가이드</dt>

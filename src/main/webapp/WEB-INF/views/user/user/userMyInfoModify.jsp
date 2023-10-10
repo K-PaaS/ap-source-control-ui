@@ -40,7 +40,7 @@
                 </tr>
                 <tr>
                     <th>이메일</th>
-                    <td><input type="text" name="mail" id="mail" value="${ScUser.userMail}"  placeholder="(예)paasta@nia.or.kr">
+                    <td><input type="text" name="mail" id="mail" value="${ScUser.userMail}"  placeholder="(예)kpaas@nia.or.kr">
                         <p class="desc" style="color:#fb5666;" id="emailNotConfirmedAlert">* 이메일 주소 형식이 올바르지 않습니다.</p></td>
                 </tr>
                 <tr>
