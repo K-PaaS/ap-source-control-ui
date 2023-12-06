@@ -29,7 +29,7 @@
         <repository>
             <id>maven.scm-manager.org</id>
             <name>scm-manager release repository</name>
-            <url>http://maven.scm-manager.org/nexus/content/groups/public</url>
+            <url>https://packages.scm-manager.org/repository/releases</url>
         </repository>
 
     </repositories>
